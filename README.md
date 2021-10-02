@@ -33,3 +33,5 @@ Done!! Data will automatically be added in column with heading as today's date.<
   &nbsp
   <img src="https://github.com/yashas-hm/Attendance-Sorter/blob/master/images/6.JPG" width="400"/>
 </p>
+
+## Author: [yashas-hm](https://github.com/yashas-hm)
